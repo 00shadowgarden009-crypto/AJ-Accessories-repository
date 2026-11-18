@@ -1,0 +1,10 @@
+/* Actual product photography from Audionic's official product catalog; names in this demo remain AJ catalogue items. */
+#products>.product-card:nth-child(1) .product-art{background-image:url('https://cdn.shopify.com/s/files/1/0560/8373/7741/products/Airbud425TWS_1.jpg')}
+#products>.product-card:nth-child(2) .product-art{background-image:url('https://audionic.co/cdn/shop/products/PowerCruiser100.jpg?v=1&width=900')}
+#products>.product-card:nth-child(3) .product-art{background-image:url('https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=900&q=85')}
+#products>.product-card:nth-child(4) .product-art{background-image:url('https://cdn.shopify.com/s/files/1/0560/8373/7741/products/Reboot202PowerBank.jpg')}
+#products>.product-card:nth-child(5) .product-art{background-image:url('https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=900&q=85')}
+#products>.product-card:nth-child(6) .product-art{background-image:url('https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=900&q=85')}
+#products>.product-card:nth-child(7) .product-art{background-image:url('https://cdn.shopify.com/s/files/1/0560/8373/7741/products/HammerWirelessHP_1.jpg')}
+#products>.product-card:nth-child(8) .product-art{background-image:url('https://audionic.co/cdn/shop/products/PowerCruiser100.jpg?v=1&width=900')}
+#products>.product-card .product-icon{opacity:0}
